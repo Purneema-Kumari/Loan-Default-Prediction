@@ -36,7 +36,7 @@ After this I standardized all the variables before fitting the model.
 
 I have used Logistic Regression for model building whose accuracy was 0.74.
 
-**Solution:**
+**Solutions:**
 1. Help customers to maximize their cash flows along with streamlining their installment plans.
 2. Explain the customers  impact of defaulting on credit score and how it can reduce the chance to receive credit in future.
 3. Asking for additional information to better assess their default probability.
