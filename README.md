@@ -34,7 +34,7 @@ There are 48 independent variables after encoding categorical variable.
 The data was divided into train and test part which accounts for 80% and 20% of the data respectively.
 After this I standardized all the variables before fitting the model.
 
-I have used Logistic Regression for model building whose accuracy was 0.74.
+Here Logistic Regression has been used for model building whose accuracy was 0.74.
 
 **Solutions:**
 1. Help customers to maximize their cash flows along with streamlining their installment plans.
